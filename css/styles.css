@@ -1,0 +1,28 @@
+body {
+  width: 1440px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  background-color: #d6e2f0;
+  color: #7b879d;
+  text-align: center;
+}
+
+img {
+  border-radius: 8px;
+  position: relative;
+  width: 100%;
+
+}
+
+h1 {
+  font-size: 1.1rem;
+  color: 	#1f3251;
+}
+
+.qr-code {
+width: 15%;
+margin: 100px auto;
+background-color: white;
+padding: 15px;
+border-radius: 8px;
+  }
